@@ -41,7 +41,7 @@ Welcome to my GitHub! My name is Nicola, and I'm a passionate **Graphic Designer
 
 ## 📈 GitHub Stats
 
-![Nicola's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolaFriuli&show_icons=true&theme=radical)
+![Nicola's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolaFriuli&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ## 🌟 Top Languages
 
